@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tjebbe Lodeizen</h1>
 <h3 align="center">A passionate financial data analyst and consultant</h3>
 
-- 🔭 I’m currently working on [Crowdfeel](crowd-feel.herokuapp.com)
+- 🔭 I’m currently working on [Modern Intellect](www.crowdfeel.nl)
 
 - 🌱 I’m currently learning **Google Cloud Platform**
 
