@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tjebbe Lodeizen</h1>
-<h3 align="center">A passionate financial data analyst and consultant</h3>
+<h3 align="center"> Experienced in financial and data analysis, project management, sustainable strategy and product development </h3>
 
-- 🔭 I’m currently working on [Modern Intellect](https://troopl.com/tjebbe)
+- 🔭 I’m currently working on a simple AI app (https://troopl.com/tjebbe)
 
-- 🌱 I’m currently learning **Google Cloud Platform**
+- 🌱 I’m currently learning **DeepSeek**
 
 - 📫 How to reach me **tjebbelodeizen@gmail.com**
 
