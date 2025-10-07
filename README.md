@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tjebbe Lodeizen</h1>
+<h1 align="center">Hi there 👋 my name is Tjebbe Lodeizen</h1>
 <h3 align="center"> Experienced in financial and data analysis, project management, sustainable strategy and product development </h3>
 
 - 🔭 I’m currently working on a simple AI app (https://troopl.com/tjebbe)
