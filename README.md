@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a simple AI app (https://troopl.com/tjebbe)
 
-- 🌱 I’m currently learning **DeepSeek and ClimateGPT**
+- 🌱 I’m currently learning **CODAM Piscine, mostly programming in C**
 
 - 📫 How to reach me **tjebbelodeizen@gmail.com**
 
