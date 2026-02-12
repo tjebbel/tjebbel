@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a simple AI app (https://troopl.com/tjebbe)
 
-- 🌱 I’m currently learning **CODAM Piscine, mostly programming in C**
+- 🌱 I’m currently learning **CODAM Piscine, programming in C and Python**
 
 - 📫 How to reach me **tjebbelodeizen@gmail.com**
 
