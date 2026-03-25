@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋 my name is Tjebbe Lodeizen</h1>
 <h3 align="center"> Experienced in financial and data analysis, project management, sustainable strategy and product development </h3>
 
-- 🔭 I’m currently working on a simple AI app (https://troopl.com/tjebbe)
+- 🔭 I’m currently working on a simple AI app (https://troopl.com/tjebbe), gained experience through CODAM and LeWagon
 
-- 🌱 I’m currently learning **CODAM Piscine, programming in C and Python**
+- 🌱 I’m currently learning ** C and Python**
 
 - 📫 How to reach me **tjebbelodeizen@gmail.com**
 
