@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋 my name is Tjebbe Lodeizen</h1>
 <h3 align="center"> Experienced in financial and data analysis, project management, sustainable strategy and product development </h3>
 
-- 🔭 I have learned most at CODAM and LeWagon
+- 🔭 I have learned most at **CODAM and LeWagon**
 
-- 🌱 I’m currently learning ** C and Python **
+- 🌱 I’m currently learning **C and Python**
 
 - 📫 How to reach me **tjebbelodeizen@gmail.com**
 
