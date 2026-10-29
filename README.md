@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 my name is Tjebbe Lodeizen</h1>
-<h3 align="center"> Experienced in financial and data analysis, project management, sustainable strategy and product development </h3>
+<h3 align="center"> Likes to build sustainable business cases and financial models for renewable-energy projects, analyse ESG and capital-market data, and automate analysis </h3>
 
 - 🔭 I have learned most at **CODAM and LeWagon**
 
