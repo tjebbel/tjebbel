@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 my name is Tjebbe Lodeizen</h1>
 <h3 align="center"> Likes to build sustainable business cases and financial models for renewable-energy projects, analyse ESG and capital-market data, and automate analysis </h3>
 
-- 🔭 I have learned mostly Python at ** Vrije Universiteit Amsterdam and LeWagon**
+- 🔭 I have learned mostly Python at **Vrije Universiteit Amsterdam and LeWagon**
 
 - 🌱 I’m currently learning **C at CODAM College**
 
